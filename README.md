@@ -9,6 +9,13 @@
 
 ![](https://komarev.com/ghpvc/?username=JerryKerry)
 
+
+![Contribution Snake](https://raw.githubusercontent.com/JerryKerry/gitTest/output/snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JerryKerry/gitTest/output/snake-dark.svg">
+</picture>
+
 <!--
 **JerryKerry/JerryKerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
