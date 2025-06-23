@@ -25,7 +25,7 @@
 
 <!-- ==================== СОЦИАЛЬНЫЕ ССЫЛКИ ==================== -->
 <p align="center">
-  <a href="https://t.me/@username_old"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="@username_old"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 </p>
 
