@@ -23,12 +23,6 @@
 </picture>
 
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-</p>
-
 <!--
 **JerryKerry/JerryKerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
