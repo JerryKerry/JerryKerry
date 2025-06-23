@@ -22,6 +22,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JerryKerry/gitTest/output/snake-dark.svg">
 </picture>
 
+
+<!-- ==================== СОЦИАЛЬНЫЕ ССЫЛКИ ==================== -->
+<p align="center">
+  <a href="https://t.me/@username_old"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+</p>
+
 <!--
 **JerryKerry/JerryKerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
