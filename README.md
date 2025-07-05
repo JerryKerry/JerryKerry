@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%92%BB+JERRY+KERRY+%F0%9F%96%A5%EF%B8%8F;%E2%9C%8A%EF%B8%8F+AUTOMATION+CODER+%F0%9F%92%81%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%93%B1+DIGITAL+ARTISAN+%F0%9F%8E%A8" alt="Animated Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%92%BB+JERRY+KERRY+%F0%9F%96%A5%EF%B8%8F;%E2%9C%8A%EF%B8%8F+AUTOMATION+CODER+%F0%9F%92%81%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%93%B1+DIGITAL+ARTISAN+%F0%9F%8E%A8"alt="Animated Header">
 </h1>
 
 
