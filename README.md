@@ -3,7 +3,7 @@
 </h1>
 
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C827F7&center=true&vCenter=true&width=435&lines=QA+Engineer" alt="Typing SVG" /></a>
 🔭 Now I am working on import substitution products.
 
